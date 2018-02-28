@@ -1,6 +1,10 @@
 # WordReport
    一个通用的Word报告生成程序, 将Dataset中的数据按照设定的规则写入模板,支持导出docx、doc和PDF.
-
+   
+   功能已经实现, 一些细节暂未处理, 比如对于模板配置错误时的友好提示和日志.
+   速度有点慢, 据说OpenXML会好很多,但据说只支持word的docx版本,导出doc和pdf不知道是否可行, 有时间深入研究一下.
+   
+   
 # Demo
 做了个将Sql Server数据库的表结构导出的demo.
 
