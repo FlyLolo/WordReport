@@ -62,5 +62,10 @@ namespace FlyLolo.WordReport.Demo
             cbxType.ValueMember = "id";
             cbxType.DisplayMember = "name";
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
