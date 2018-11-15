@@ -16,4 +16,4 @@
 3.根据书签中的描述, 系统自动将数据写入相应位置.
 
 # 模板规则
-  见我的博客http://www.cnblogs.com/FlyLolo/p/7884035.html. 当时写的有点粗糙, 有时间整理一下
+  见我的博客https://www.cnblogs.com/FlyLolo/p/WordReport.html. 当时写的有点粗糙, 有时间整理一下
